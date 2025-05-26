@@ -11,7 +11,7 @@ export default function Home() {
       category: "Word Game",
       difficulty: "Easy",
       description:
-        "A clever team-based word game where spies give one-word clues to identify their team's agents.",
+        "A clever team-based word game where spies give one-word clues to identify their team&apos;s agents.",
     },
     {
       name: "Jackbox Party Pack",
@@ -156,7 +156,7 @@ export default function Home() {
           </h2>
           <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
             Discover, organize, and enjoy the perfect games for your next
-            gathering. From party games to strategy classics, we've got you
+            gathering. From party games to strategy classics, we&apos;ve got you
             covered.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
