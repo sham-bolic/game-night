@@ -109,6 +109,18 @@ export default function Home() {
       description:
         "A cooperative word game where players give one-word clues to help guess the mystery word.",
     },
+    {
+      name: "Cameleon",
+      players: "3+ players",
+      time: "N/A",
+      image: "/games/just-one.jpg",
+      author: "Ludovic Roudy",
+      redirectLink: "/games/just-one",
+      category: "Word Game",
+      difficulty: "Easy",
+      description:
+        "A cooperative word game where players give one-word clues to help guess the mystery word.",
+    },
   ];
 
   return (
